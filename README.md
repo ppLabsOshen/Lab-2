@@ -3,4 +3,5 @@
 `git remote add origin` ***<ссылка на репозиторий>*** - связка папки с репозиторием<br>
 `git add .` - добавление всех измененных файлов в stage-зону<br>
 `git commit -m` ***‘<сообщение>’*** <br>
-`git push origin master` <br>
+`git push origin master` <br> 
+`git clone` ***<ссылка на репозиторий>*** - копирование данных из удаленного репозитория
